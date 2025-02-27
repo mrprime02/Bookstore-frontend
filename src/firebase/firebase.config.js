@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAinHZgT4loos9nq-SS2LHBg9aFm48ocms",
-  authDomain: "mern-book-inventory-f17e4.firebaseapp.com",
-  projectId: "mern-book-inventory-f17e4",
-  storageBucket: "mern-book-inventory-f17e4.appspot.com",
-  messagingSenderId: "997198267434",
-  appId: "1:997198267434:web:cf883a8a7c2c9654752f53"
+  apiKey: "AIzaSyBJrCZT9K1tWeCpKTroO6ymeJ93yh9DSwI",
+  authDomain: "mern-book-inventory-b09f8.firebaseapp.com",
+  projectId: "mern-book-inventory-b09f8",
+  storageBucket: "mern-book-inventory-b09f8.firebasestorage.app",
+  messagingSenderId: "783906090475",
+  appId: "1:783906090475:web:809375f20d137ff388fdae"
 };
 
 // Initialize Firebase

@@ -12,7 +12,7 @@ const SideBar = () => {
     <Sidebar aria-label="Sidebar with content separator example">
         <Sidebar.Logo
           href="/"
-          
+          img={user?.photoURL}
           imgAlt="">
        <p>
         {
